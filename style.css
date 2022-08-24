@@ -1,0 +1,793 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.o-container-fluid{
+    margin:0
+}
+.o-container-fluid h3{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family: 'montserrat';
+}
+.o-container-fluid .text{
+    width: 1000px;
+    text-align: center;
+    margin-left: 260px;
+}
+.o-container-fluid hr{
+    width: 100%;
+}
+.o-container-fluid p{
+    color: rgb(75,74,74);
+    text-align: center;
+    font-size: 20px;
+    font-family: 'montserrat';
+    font-weight:;
+}
+.o-container-fluid .box p{
+    color: rgb(251,255,0);
+    text-align: center;
+    font-size: 16px;
+    font-family: 'montserrat';
+   margin:10px 10px;
+   display: inline-block;
+
+}
+.o-container-fluid .box span {
+color: rgb(251,255,0);
+font-size: 22px;
+margin-left: 8px;
+position: absolute;
+}
+.o-container-fluid .box .icon i{
+    margin-left: 312px;
+    color: rgb(251,255,0);
+    font-size: 22px;
+    position: absolute;
+    margin-top: -32px;
+}
+.o-container-fluid h1{
+    color: black;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 20px;
+    font-size: 50px;
+    font-family: 'montserrat';
+}
+
+.o-container-fluid h1 span{
+    font-size: 40px;
+   display: block;
+    margin-bottom: -20px;
+    text-align: left;
+    padding-left: 655px;
+    font-weight: 700; 
+    margin-bottom: -15px;  
+}
+.o-container-fluid h1::after{
+    content: "";
+    position: absolute;
+   height: 17px;
+   left: 680px;
+   right: 0px;
+   width: 100px;
+   top: 160px;
+   background-color: rgb(251,255,0);
+   z-index: -1;
+}
+.card{
+    height: 500px;
+    width: 100%;
+}
+.o-container-fluid .card::before{
+    content: "";
+    position: absolute;
+   height: 16px;
+   left: 0px;
+   width: 125px;
+   top: 230px;
+   background-color: rgb(251,255,0);
+   z-index: 1;
+}
+.col-md-3{
+    margin-left: 90px;
+}
+.o-container-fluid img{
+    object-fit: cover;
+    margin-top: 0px;
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.o-container-fluid .bag-heart i {
+font-size: 30px;
+color: rgb(75,74,74);
+position: absolute;
+margin-top:-45px;
+margin-left: 5px;
+}
+.box{
+    width: 23%;
+    height: 150px;
+    background-color: rgb(75,74,74);
+    margin-left: 50px;
+    border-radius: 10px;
+    margin-top: -20px;
+    position: absolute;
+}
+.box p{
+    color:rgb(251,255,0);
+    text-align: center;
+    padding: 15px 8px;
+    font-family: 'montserrat';
+}
+.activity{
+width: 100px;
+height: 100px;
+box-shadow: 0 0 5px rgb(75 74 72 / 10%);
+}
+.o-container1-fluid{
+    margin-top: 180px;
+    text-align: center; 
+    font-family: 'montserrat'; 
+}
+.o-container1-fluid h1{
+text-transform: uppercase;
+}
+.o-container1-fluid h1::before{
+    content:"";
+    width: 190px;
+    height: 20px;
+    position: absolute;
+    background-color: rgb(251,255,0);
+    top: 750px;
+    left: 585px;
+    z-index: -1;
+
+}
+.o-container1-fluid i{
+    color: rgb(251,255,0);
+    font-size: 70px;
+}
+.o-container1-fluid h5{
+color: rgb(75,74,74);
+margin-top: 10px ;
+margin-left: -170px;
+}
+
+.activity{
+    margin-left: 180px;
+    margin-top: 10px;
+}
+.o-container h2{
+    text-align: center;
+    text-transform: uppercase;
+}
+.o-container p{
+    margin: 10px 30px;
+    color: rgb(75,74,74);
+    font-size: 20px;
+    font-family: 'montserrat';
+}
+
+.o-container ul li{
+ font-size:20px ;
+ color: rgb(75,74,74);
+margin: 0 30px;
+}
+.card i{
+    color: rgb(251,255,0);
+    font-size: 20px;
+}
+/*surgatl*/
+.title h1, .title4 h1{
+    color: black;
+    font-weight:700 ;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 60px;
+}
+.title h1:after{
+    content: "";
+    position: absolute;
+   height: 18px;
+   left: ;
+   right: 720px;
+   width: 130px;
+   top: 30px;
+   background-color: rgb(251,255,0);
+   z-index: -1;
+}
+.container-fluid-3 .box3{
+margin-top: 30px;
+    width: 90%;
+    height: 250px;
+    background-color: rgb(75,74,74);
+    margin-bottom: 20px;
+}
+.container-fluid-3 .box3 p{
+    color: rgb(251,255,0);
+    font-size: 20px;
+    text-align: center;
+    padding: 20px 10px;
+    margin-left: 0px;
+    margin-right: 30px;
+    margin-top: -40px;
+    margin-bottom: -40px;
+
+}
+.container-fluid-3 .image3{
+width: 100%;
+margin-right: ;
+}
+.container-fluid-3 .image3:before{
+    content: "";
+    position: absolute;
+   height: 14px;
+   left: 614px;
+   right: 20px;
+   width: 1000px;
+   top: 80px;
+   background-color: rgb(75,74,74);
+   z-index: -1;
+}
+.container-fluid-3 img{
+    width: 100%;
+    object-fit: cover;
+    height: 600px;
+    position: relative;
+    margin-left: 100px;
+   margin-top: 0px;
+}
+.container-fluid-3 .text3{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.container-fluid-3 h4{
+    color: rgb(75,74,74);
+    font-weight: 550;
+    margin-top: 10px;
+    margin-bottom: 10px; 
+    font-family: 'montserrat';
+    font-size: 25px;  
+}
+.container-fluid-3 h4::after{
+    content: "";
+    position: absolute;
+   height: 14px;
+   left: 610px;
+   right: 100px;
+   width: 160px;
+   top: 745px;
+   background-color:rgb(251,255,0);
+   z-index: -1;
+}
+.container-fluid-3 .text3 p{
+    color: rgb(75,74,74);
+    font-size: 20px;
+    text-align: justify;
+    font-weight: 450;
+    padding-right: 70px;
+}
+.container-fluid-3 span i{
+    color: rgb(251,255,0);
+    font-size: 25px;
+}
+.container-fluid-3 .icon i{
+    color:rgb(251,255,0);
+    font-size:25px;
+    margin-left: 400px;
+
+}
+.container-fluid-3 .resign button{
+    width: 20%;
+    background-color: rgb(251,255,0);
+    height: 40px;
+    margin-left: 100px;
+    border-radius: 20px;
+}
+.container-fluid-3 a {
+    font-size: 20px;
+    font-family:'montserrat';
+  text-decoration: none;
+  color: rgb(75,74,74);
+}
+/*interview*/
+.title4 h1{
+    font-family: 'montserrat';}
+
+ .title4 h1::after{
+    content: "";
+    position: absolute;
+   height: 20px;
+   left: 591px;
+   width: 150px;
+   top: 27px;
+   background-color:rgb(251,255,0);
+    z-index:-1} 
+
+.container-4 .card4{
+ width: 90%;
+ height: 450px;
+ border: 1px solid rgb(75,74,74);
+ box-shadow:;
+ text-decoration: none;
+ margin-left: 20px;
+ margin-bottom: 40px;
+}
+.card4::after{
+    content: "";
+    position: absolute;
+   height: 17px;
+   left: 111px;
+   width: 140px;
+   top: 313px;
+   background-color:rgb(251,255,0);
+   z-index: 1;
+   
+}
+.card4::before{
+    content: "";
+    position: absolute;
+   height: 17px;
+   left: 110px;
+   width: 140px;
+   top: 809px;
+   background-color:rgb(251,255,0);
+   z-index: 1;
+   
+}
+.container-4 .card4 h3{
+    color: rgb(75,74,74);
+    font-weight: 500;
+}
+ .container-4 h3:after{
+    content: "";
+    position: absolute;
+   height: 17px;
+   left: 585px;
+   width: 140px;
+   top: 314px;
+   background-color:rgb(251,255,0);
+   z-index:1;
+}
+.container-4 h3:before{
+    content: "";
+    position: absolute;
+   height: 17px;
+   left: 585px;
+   width: 140px;
+   top: 809px;
+   background-color:rgb(251,255,0);
+   z-index:1;
+}
+.container-4 p::before{
+    content: "";
+    position: absolute;
+   height: 17px;
+   left: 1062px;
+   width: 140px;
+   top: 314px;
+   background-color:rgb(251,255,0);
+   z-index:1;
+} 
+.container-4 p::after{
+    content: "";
+    position: absolute;
+   height: 17px;
+   left: 1060px;
+   width: 140px;
+   top:805px;
+   background-color:rgb(251,255,0);
+   z-index: 1;
+} 
+.container-4 img{
+    width:100%;
+    object-fit:cover;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+.container-4 p{
+    margin: 20px 5px;
+    text-decoration: none;
+    color: rgb(75,74,74);
+    font-weight: 450;
+   
+}
+.container-4 a{
+    text-decoration: none;
+}
+/*video*/
+.heading5::after{
+    content: "";
+    position: absolute;
+   height: 20px;
+   left: 110px;
+   right: 0px;
+   width: 230px;
+   top: 27px;
+   background-color: rgb(251,255,0);
+   z-index: -1;
+}
+.container .vid h1{
+font-size: 50px;
+font-family: 'montserrat';
+}
+.container .video{
+object-fit: cover;
+height: 600px;
+margin-top: 30px;
+}
+.container video{
+    object-fit: cover;
+    width: 100%;
+    height:100%;
+}
+.container .text5 p{
+    font-size: 20px;
+    font-family: 'montserrat';
+    margin-top: 30px;
+}
+/*event*/
+.container .event{
+
+}
+.container h2{
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'montserrat';
+    font-weight: 600;
+}
+.container p{
+    font-size: 20px;
+    font-family: 'montserrat';
+    color: rgb(75,74,74);
+    font-weight: 50;
+}
+.container ul li{
+    font-size: 20px;
+    font-family: 'montserrat';
+    color: rgb(75,74,74);
+    font-weight: 500;
+}
+
+/*resign*/
+.container .title6 h1{
+    text-align: center;
+    font-family: 'montserrat';
+    font-weight: 600;
+}
+.container .title6 h1::before{
+    content: "";
+    position: absolute;
+   height: 17px;
+   left: 690px;
+   right: 0px;
+   width: 100px;
+   top: 26px;
+   background-color: rgb(251,255,0);
+   z-index: -1;
+}
+.container input{
+    margin-top: 10px;
+   margin-bottom: 30px;
+    width: 70%;
+   border: 2px solid rgb(75,74,74);
+   height: 40px;
+   border-radius: 7px;
+}
+.container label{
+    font-size: 20px;
+    font-family: 'montserrat';
+    color: rgb(75,74,74);
+}
+.container .submit{
+   background-color: rgb(251,255,0);
+    width: 150px;
+    font-size: 20px;
+    font-family: 'montserrat';
+}
+input .submit{
+    
+}
+.sub{
+    text-align: center;
+}
+.map{
+    margin-top: 20px;
+}
+iframe{
+    width: 100%;
+    object-fit: cover;
+}
+         /*phone version*/
+/*about us*/         
+@media(max-width:400px){
+.o-container-fluid h3{
+}
+.o-container-fluid p{
+    margin-left: -246px;
+    margin-right: 883px
+}
+.o-container-fluid h1{
+    margin-bottom: 0;
+}
+.o-container-fluid h1 span{
+    margin-left: -530px;
+}
+.o-container-fluid h1::after{
+    margin-left: -530px;
+    top: 270px;
+}
+
+.o-container-fluid .box {
+    width: 60%;
+    height: 128px;
+    margin-left: 41px;
+    margin-top: -136px;}
+.o-container-fluid p{
+    font-size: 13px;
+    font-family: 'montserrat';
+    display: inline-block;
+}
+.o-container-fluid .box p{
+font-size: 12px;
+font-family: 'montserrat';
+margin: 3px 15px;
+display: inline-block;}
+.o-container-fluid .card::before {
+    content: "";
+    position: absolute;
+    height: 16px;
+    left: 0px;
+    width: 125px;
+    top: 184px;
+    background-color: rgb(251,255,0);
+    z-index: 1;
+}
+.o-container-fluid .card {
+    margin-bottom: 107px;
+    margin-left: -36px;
+    margin-top: 20px;
+}
+.o-container-fluid .box .icon i {
+   
+    margin-left: 200px;
+    margin-top: -30px;
+}
+.o-container-fluid h1::after{
+    margin-top: -80px;
+}
+.activity {
+    margin-left: 20px;
+}
+.o-container1-fluid{
+    margin-top: 20px;
+}
+.o-container1-fluid .col-4{
+    width: 30%;
+}
+.o-container1-fluid .activity h5{
+    margin-left: 0;
+}
+    /*interview*/
+.container-4 .card4{
+    margin-left: -53px;
+}
+.card4::after{
+    left: 39px;
+    width: 140px;
+    top: 302px;
+}
+.card4::before{
+    left: 39px;
+    width: 140px;
+    top: 792px;
+}
+.container-4 p::before{
+    left: 39px;
+    width: 140px;
+    top: 1279px;
+}
+.container-4 p::after{
+    left:39px;
+    top:2748px
+}
+.title4 h1::after{
+    left: 93px;
+    width: 150px;
+    top: 18px;
+}
+.container-4 h3::after{
+    left: 39px;
+    width: 140px;
+    top: 1771px;
+}
+.container-4 h3::before{
+left: 39px;
+    width: 140px;
+    top: 2260px;}
+
+    /*video*/
+.container video{
+    height: auto;
+}
+.container .main5 .col-12 {
+    margin-left: 0;
+}
+.container .video{
+    height: 290%;
+}
+.heading5 h1{
+    margin-top: 15px;
+}
+.heading5::after{
+    left: 10px;
+    width: 170px;
+    top: 34px;
+}
+.container .col-12{
+    margin-left: 45px;
+}
+.container .title6 h1::before{
+    content: "";
+    position: absolute;
+   height: 17px;
+   left: 140px;
+   right: 0px;
+   width: 80px;
+   top: 19px;
+   background-color: rgb(251,255,0);
+   z-index: -1;
+}
+ /*surgalt*/
+ .title h1{
+    margin-top: 20px !important;
+    margin-bottom: 0 !important;
+ }
+ .title h1::after{
+    right: 171px !important;
+    width: 91px !important;
+    top: 38px !important;
+ }
+ .container-fluid-3 .box3 {
+    margin-top: 30px !important;
+    margin-left: 38px !important;
+    width: 80% !important;
+    height: 210px !important;
+}
+.container-fluid-3 .icon i{
+    position: absolute !important;
+    font-size: 25px !important;
+    margin-top: 5px !important;
+    margin-left: 281px !important;
+}
+.container-fluid-3 .box3 p {
+    color: rgb(251,255,0) !important;
+    font-size: 15px !important;
+    text-align: center !important;
+    padding: 35px 18px !important;
+margin-right: 0 !important;}
+    .container-fluid-3 .image3:before{
+        left: 38px !important;
+        width: 312px !important;
+        top: 564px !important;
+        bottom: 252px !important;
+    }
+    .container-fluid-3 img{
+        width: 94% !important;
+        height: auto !important;
+    position: relative !important;
+    margin-left: 38px !important;
+    margin-top: 34px !important;
+    }
+    .container-fluid-3 .image3 {
+        width: 85% !important;
+}
+.container-fluid-3 .text3 p{
+    padding-right: 36px !important;
+    margin-left: -59px !important;
+    font-size: 15px !important;
+}
+.container-fluid-3 h4{
+    margin-left: -59px !important;
+}
+.container-fluid-3 h4::after{
+    left: 36px !important;
+    top: 833px !important;
+}
+.container-fluid-3 .resign button{
+    height: 36px !important;
+    margin-left: 130px !important;
+    border-radius: 20px !important;
+    width: 30% !important;
+}
+.container-fluid-3 button p{
+    font-size: 17px !important;
+    font-family: 'montserrat' !important;
+}
+}
+            /*IPad version*/
+@media(max-width:830px){
+    /*video*/
+    .container .video{
+        height: auto;
+    }
+    .container video{
+        height:50%;
+    }
+    .heading5::after{
+        left: 65px;
+    }
+    .container .title6 h1::before{
+        left: 340px;
+    }
+    .container .burtgel .col-12{
+        margin-left: 45px;
+    }
+    /*surgalt*/
+.title h1{
+    margin-bottom: 37px;
+    margin-top: 10px;
+}
+.title h1::after{
+    right: 378px;
+    width: 110px;
+    top: 34px
+}
+    .container-fluid-3 .icon i {
+        font-size: 25px;
+        margin-left: 222px;
+        position: absolute;
+        margin-top: 0
+}
+.container-fluid-3 .image3::before{
+    top: 66px;
+    left: 364px;
+    right: 20px;
+    width: 100%;
+}
+.container-fluid-3 .text3 p{
+    font-size: 16px;
+}
+.container-fluid-3 h4::after{
+    left: 378px;
+    top: 665px;
+}
+.container-fluid-3 .box3 p {
+    color: rgb(251,255,0);
+    font-size: 14px;
+    margin-right: 0;
+    text-align: center;
+    padding: 30px 17px;}
+.container-fluid-3 .box3 {
+        margin-top: 30px;
+        width: 100%;
+        height: 225px;
+        background-color: rgb(75,74,74);
+        margin-bottom: 20px;
+    }
+.container-fluid-3 img {
+     width: 85%;
+     object-fit: cover;
+     height: 540px;
+     position: relative;
+     margin-left: 82px;
+     margin-top: 0px;
+}
+.container-fluid-3 .box3 p {
+    color: rgb(251,255,0);
+    font-size: 14px;
+    text-align: center;
+    padding: 42px 12px;
+    margin-left: 0px;
+    margin-right: 0;
+    margin-top: -40px;
+    margin-bottom: -40px;
+}
+}
